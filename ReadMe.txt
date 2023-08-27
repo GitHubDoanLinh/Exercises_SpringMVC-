@@ -1,0 +1,1 @@
+Some exercises for spring mvc and spring boot
